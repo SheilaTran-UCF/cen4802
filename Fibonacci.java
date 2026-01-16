@@ -1,3 +1,17 @@
+
+/**
+ * Course: CEN 4802
+ * Student: MInh Ngoc Tran
+ *
+ * Assignment 1
+ * This Java class implements a recursive method to compute the nth term
+ * of the Fibonacci sequence. The program includes proper Javadoc
+ * documentation describing the method’s purpose, parameters, and return value.
+ * A main method is provided to demonstrate the functionality by calculating
+ * and displaying the 10th Fibonacci number. The implementation follows Java
+ * best practices and meets the assignment requirements for recursion and documentation.
+ */
+
 public class Fibonacci {
 
     /**
